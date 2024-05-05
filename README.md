@@ -17,14 +17,12 @@ This Bash script is designed to perform basic network scanning tasks on target d
 3. Make the script executable if needed:
 chmod +x network_scanner.sh
 
-sql
-Copy code
+
 
 4. Execute the script with root privileges:
 sudo ./network_scanner.sh
 
-typescript
-Copy code
+
 
 5. Follow the prompts:
 - Enter the IP address of the target device(s) you want to scan.
