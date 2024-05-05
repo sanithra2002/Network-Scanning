@@ -46,11 +46,6 @@ nmap -sS -sV -O $tar_ip
 echo "scanning the target device for check vulnerabilities....."
 nmap --script vuln $tar_ip
 
-#opening terminal
-echo "opening terminal....."
-gnome-terminal
-konsole
-xterm
 
 #opening metasploit 
 echo "opening metasploit....."
